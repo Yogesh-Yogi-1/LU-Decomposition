@@ -49,7 +49,7 @@ print(x)
 ### For L and U matrix
 ![Screenshot 2023-12-30 134251](https://github.com/Yogesh-Yogi-1/LU-Decomposition/assets/148514598/555ec6b5-3590-4f47-bb20-099ef8a3a0e7)
 
-### For LU decomposition
+### To solve a matrix
 ![Screenshot 2023-12-30 134333](https://github.com/Yogesh-Yogi-1/LU-Decomposition/assets/148514598/9e73efee-556a-4a77-9e07-9cab7c86b533)
 
 ## Result:
